@@ -3,6 +3,7 @@ example get github api by graphql
 - start
 
 ```shell
+// token 需要去获取
 cp env.development.local .env.development.local
 npm i && npm start
 ```
